@@ -7,4 +7,4 @@ Key Intakes:
 3.Actively involved in creating a data model, transforming the data, calculations using DAX and creation of new measures and reporting.
 
 PBIX link:https://drive.google.com/file/d/1NcV2Lxz4pycnr57JCS6IPU5NPtgkChFT/view?usp=sharing
-PDF link:https://www.canva.com/design/DAF0YD91qIk/VrqRMGehni6KyxUYMRxKtw/edit?utm_content=DAF0YD91qIk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+PDF link:https://drive.google.com/file/d/1uD4zWLwJm7t4L2XtLSOdVbWTNqsXRRrv/view?usp=sharing
