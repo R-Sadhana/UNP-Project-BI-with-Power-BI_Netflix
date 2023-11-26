@@ -2,9 +2,10 @@
 Successfully completed the project on Netflix with Power Bi from United Network of Professionals.
 
 Key Intakes:
-1.Connected to a wide variety of data sources, contributed towards generating key performance indicators(kpi;s) shaping and manipulating data using a graphical interface.
-2.Presenting your data with a rich set of visualization options, including bar charts, line charts, tables,and maps, finally contributing to giving creative and effective solutions.
-3.Actively involved in creating a data model, transforming the data, calculations using DAX and creation of new measures and reporting.
+1.About Data- Connected to Netflix data to study the netflix statistics
+2.Data Transformation- Loaded the data, transformed it using Query editor and created relationships
+2.Presentation of KPI'S- Contributed towards generating key performance indicators(kpi's) inorder to analyse the data and computed some influential measures using DAX functions
+4.Dashboard- Utilized some major data visualizations like bar charts, line charts, pie charts, tree map, cards, slicers to finally contributing towrads producing creative and effective solutions
 
 PBIX link:https://drive.google.com/file/d/1NcV2Lxz4pycnr57JCS6IPU5NPtgkChFT/view?usp=sharing
 PDF link:https://drive.google.com/file/d/1uD4zWLwJm7t4L2XtLSOdVbWTNqsXRRrv/view?usp=sharing
